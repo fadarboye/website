@@ -18,7 +18,7 @@ To use this repository, you need the following installed locally:
 - [npm](https://www.npmjs.com/)
 - [Go](https://go.dev/)
 - [Hugo (Extended version)](https://gohugo.io/)
-- A container runtime, like [Docker](https://www.docker.com/).
+- A container runtime, like [Docker](https://www.docker.com/)
 
 > [!NOTE]
 Make sure to install the Hugo extended version specified by the `HUGO_VERSION` environment variable in the [`netlify.toml`](netlify.toml#L11) file.
