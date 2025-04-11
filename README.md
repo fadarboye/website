@@ -44,7 +44,7 @@ git submodule update --init --recursive --depth 1
 make module-init
 ```
 
-## Running the website using a container
+## Running the website using a container.
 
 To build the site in a container, run the following:
 
